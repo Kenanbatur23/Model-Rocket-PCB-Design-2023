@@ -1,5 +1,5 @@
 # Model-Rocket-PCB-Design-2023
-avionics system for model rocket, this project was designed using eagle program
+avionics system for model rocket, this project was designed using eagle
 <br/>
 [My Linkedin Profile](https://www.linkedin.com/in/kenan-batur-b55540196/)<br/>
 <br/>
